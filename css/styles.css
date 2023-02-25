@@ -407,7 +407,7 @@ body {
   height: 100%;
 }
 
-.menu-customers-item:is(:focus, :hover) {
+.menu-customers-link:is(:focus, :hover) {
   border-color: var(--accent-color);
 }
 
@@ -462,7 +462,7 @@ body {
   max-height: 80px;
 }
 
-.social-media-tittle {
+.social-media-subtittle {
   margin-right: 0px;
   font-weight: 500;
   font-size: 16px;
